@@ -2,8 +2,9 @@
   "name": "to-do",
   "displayName": "TaskMate - ToDo Extension",
   "publisher": "AsL9E2TsHUxpZRnksqgA19dUt0sxWW8dGGmu1HbjDn8KuxNITZ",
+  "icon": "icon.png",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.99.0"
   },
